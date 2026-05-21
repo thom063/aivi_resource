@@ -1,0 +1,1 @@
+# aivi_resource
